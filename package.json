@@ -5,13 +5,12 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tree-sitter/tree-sitter-abnf.git"
+    "url": "https://github.com/saltfishpr/tree-sitter-abnf.git"
   },
-  "funding": "",
   "license": "MIT",
   "author": {
     "name": "saltfishpr",
-    "url": ""
+    "email": "saltfishpr@gmail.com"
   },
   "main": "bindings/node",
   "types": "bindings/node",
